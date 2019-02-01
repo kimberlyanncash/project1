@@ -1,0 +1,47 @@
+.navlink {
+    background-color: #56128c;
+}
+.navlink {
+    font-family: 'Source Serif Pro', serif;
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    color: #56128c;
+    font-size: 36px;
+    font-weight: bolder;
+}
+h2 {
+    color: #56128c;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 450; 
+    font-size: 25px;
+}
+h3 {
+    color: black;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+}
+.navbar-light {
+    color: #333333;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 18px;
+}
+.navbar-dark {
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+}
+p {
+    color: #333333;
+}
+.fab {
+    font-size: 18px;
+}
+img {
+    max-width: 1200px;
+    max-height: 450px;
+    max-inline-size: 100%
+}
+.container {
+    max-width: 1200px;
+}
